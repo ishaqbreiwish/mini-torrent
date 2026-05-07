@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_bencode.dir/tests/test_bencode.cpp.o CMakeFiles/test_bencode.dir/src/bencode.cpp.o -o test_bencode  /opt/homebrew/opt/openssl@3/lib/libcrypto.dylib
