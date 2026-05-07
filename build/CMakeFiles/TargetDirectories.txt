@@ -1,4 +1,0 @@
-/Users/ishaqbreiwish/Documents/Spring_26/Projects/mini-torrent/build/CMakeFiles/mini-torrent.dir
-/Users/ishaqbreiwish/Documents/Spring_26/Projects/mini-torrent/build/CMakeFiles/test_bencode.dir
-/Users/ishaqbreiwish/Documents/Spring_26/Projects/mini-torrent/build/CMakeFiles/edit_cache.dir
-/Users/ishaqbreiwish/Documents/Spring_26/Projects/mini-torrent/build/CMakeFiles/rebuild_cache.dir
